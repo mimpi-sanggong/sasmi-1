@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://mimpi-sanggong.github.io/sasmi-1/sitemap.xml
